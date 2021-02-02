@@ -23,7 +23,7 @@ City_ID,City,Country,Max Temp,Current Conditions,Lat,Lng,Hotel Name
 78,Kavieng,PG,83.1,overcast clouds,-2.5744,150.7967,Nusa Island Retreat
 85,Atuona,PF,79.21,scattered clouds,-9.8,-139.0333,Villa Enata
 88,Meulaboh,ID,84.4,scattered clouds,4.1363,96.1285,Kost Pria
-92,Bloemfontein,ZA,78.04,scattered clouds,-29.1211,26.214000000000002,Protea Hotel by Marriott Bloemfontein
+92,Bloemfontein,ZA,78.04,scattered clouds,-29.1211,26.214000000000002,
 98,Arraial Do Cabo,BR,75.02,scattered clouds,-22.9661,-42.0278,Pousada Porto Praia
 99,Dwarka,IN,76.55,clear sky,22.2394,68.9678,Hotel Narayan Avezika Comfort
 101,Auki,SB,80.31,overcast clouds,-8.7676,160.7034,Auki Motel
@@ -105,7 +105,7 @@ City_ID,City,Country,Max Temp,Current Conditions,Lat,Lng,Hotel Name
 408,Gold Coast,AU,78.01,broken clouds,-28.0,153.4333,Mantra Towers of Chevron Surfers Paradise
 413,Berbera,SO,78.3,clear sky,10.4396,45.0143,IBCO REAL ESTATE PROPERTY
 414,Portobelo,PA,79.0,overcast clouds,9.55,-79.65,Scuba Portobelo
-420,Katobu,ID,82.2,light rain,-4.9408,122.5276,La Ode Husein
+420,Katobu,ID,82.2,light rain,-4.9408,122.5276,
 422,Kasane,BW,76.32,moderate rain,-17.8167,25.15,The Old House
 423,Lorengau,PG,83.28,moderate rain,-2.0226,147.2712,Lorengau Harbourside Hotel
 424,Port Augusta,AU,78.8,overcast clouds,-32.5,137.7667,Majestic Oasis Apartments
